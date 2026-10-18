@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://jorgegarciaserrano.github.io/kdd-web/sitemap.xml
